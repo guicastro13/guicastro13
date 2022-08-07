@@ -1,4 +1,11 @@
-- 👋 Hi, I’m @guicastro13, from Rio claro - SP - Brazil.
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+👋 Olá, eu sou @guicastro13, de Rio claro - SP - Brasil.
+
+<br>
+ 
+  Sou desenvolvedor web Full-stack, aqui estão alguns de meus projetos, meu grande objetivo é entrar em uma empresa onde eu seja desafiado  a colocar em pratica todo o meu conhecimento.
+  Sou apaixonado por conhecimento, passo varias horas de meu dia estudando novas tecnologias e formas melhores de aplica-las.
+  Nas minhas horas vagas, gosto de ler, praticar atividades fisicas, surfar.
 
 <a href="https://www.instagram.com/guicastro013/">
   <img align="left" alt="Abhishek's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
@@ -9,20 +16,6 @@
 <a href="https://www.linkedin.com/in/guicastro13/">
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-
-
- <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-  
-- 
-- I work with security physicals systens, looking for a new kind of a job, like to study new things and 
-- this is a new challenge for me. 
-- 
-- 👀 I’m interested in make new connections.
-- 
-- 🌱 I’m currently learning javaScript, css and html.
-
-If you want contact me, send a mensage for https://www.instagram.com/guicastro013/.
-
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guicastro13&show_icons=true&theme=radical)
 
