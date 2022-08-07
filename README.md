@@ -3,7 +3,7 @@
 <a href="https://www.instagram.com/guicastro013/">
   <img align="left" alt="Abhishek's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
-<a href="https://discord.gg/castro#5362">
+<a href="[https://discord.gg/castro#5362](https://discord.gg/V8WZPYC)">
   <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
 <a href="https://www.linkedin.com/in/guicastro13/">
