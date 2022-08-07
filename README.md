@@ -5,7 +5,9 @@
  
   Sou desenvolvedor web Full-stack, aqui estão alguns de meus projetos, meu grande objetivo é entrar em uma empresa onde eu seja desafiado  a colocar em prática todo o meu conhecimento.
   <br/>
+  <br/>
   Sou apaixonado por conhecimento, passo várias horas de meu dia estudando novas tecnologias e formas melhores de aplicá-las.
+  <br/>
   <br/>
   Nas minhas horas vagas, gosto de ler, praticar atividades físicas, surfar.
 
