@@ -37,6 +37,9 @@
 <code><img height="40" src="https://avatars1.githubusercontent.com/u/2918581?s=200&v=4"></code>
 <code><img height="40" src="https://avatars3.githubusercontent.com/u/18133?s=200&v=4"></code>
 
+
+![](./profile-3d-contrib/profile-green-animate.svg)
+
 ### 🚀 Quick Stats
 <p align="center">  
  <img src="https://github-readme-stats.vercel.app/api?username=guicastro13&show_icons=true&theme=radical" alt="guicastro13"/> 
