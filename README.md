@@ -3,9 +3,11 @@
 
 <br>
  
-  Sou desenvolvedor web Full-stack, aqui estão alguns de meus projetos, meu grande objetivo é entrar em uma empresa onde eu seja desafiado  a colocar em pratica todo o meu conhecimento.
-  Sou apaixonado por conhecimento, passo varias horas de meu dia estudando novas tecnologias e formas melhores de aplica-las.
-  Nas minhas horas vagas, gosto de ler, praticar atividades fisicas, surfar.
+  Sou desenvolvedor web Full-stack, aqui estão alguns de meus projetos, meu grande objetivo é entrar em uma empresa onde eu seja desafiado  a colocar em prática todo o meu conhecimento.
+  <br/>
+  Sou apaixonado por conhecimento, passo várias horas de meu dia estudando novas tecnologias e formas melhores de aplicá-las.
+  <br/>
+  Nas minhas horas vagas, gosto de ler, praticar atividades físicas, surfar.
 
 <a href="https://www.instagram.com/guicastro013/">
   <img align="left" alt="Abhishek's Instagram" width="40px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
