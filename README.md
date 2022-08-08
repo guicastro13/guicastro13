@@ -27,7 +27,7 @@
 <br/>
 <br/>
 
-### ⚙️ Some Tool and Tech I use
+### ⚙️ Algumas tecnologias e ferramentas que utilizo
 
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="40" src="https://avatars3.githubusercontent.com/u/9950313?s=200&v=4"></code>
@@ -40,7 +40,7 @@
 
 ![](./profile-3d-contrib/profile-gitblock.svg)
 
-### 🚀 Quick Stats
+### 🚀 Outras estastísticas
 <p align="center">  
  <img src="https://github-readme-stats.vercel.app/api?username=guicastro13&show_icons=true&theme=radical" alt="guicastro13"/> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guicastro13&layout=compact&theme=radical" alt="guicastro13"
