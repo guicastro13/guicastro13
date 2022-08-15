@@ -20,7 +20,7 @@
 <a href="https://www.linkedin.com/in/guicastro13/">
   <img align="left" alt="Abhishek's LinkedIN" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-
+<hr/>
 <br/>
 <br/>
 <br/>
