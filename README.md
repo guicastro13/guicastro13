@@ -24,6 +24,7 @@
 <br/>
 <br/>
 <br/>
+<br/>
 
 ### ⚙️ Algumas tecnologias e ferramentas que utilizo
 
