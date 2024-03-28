@@ -1,15 +1,8 @@
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 👋 Olá, eu sou @guicastro13, de Rio claro - SP - Brasil.
-
 <br>
  
-  Sou desenvolvedor web Full-stack, aqui estão alguns de meus projetos, meu grande objetivo é entrar em uma empresa onde eu seja desafiado  a colocar em prática todo o meu conhecimento.
-  <br/>
-  <br/>
-  Sou apaixonado por conhecimento, passo várias horas de meu dia estudando novas tecnologias e formas melhores de aplicá-las.
-  <br/>
-  <br/>
-  Nas minhas horas vagas, gosto de ler, praticar atividades físicas, surfar.
+  Programação é um universo fantastico.\nGosto de ter conhecimentos gerais sobre a area(hardware ao sorftware), acho relevante para trazer soluções mais robustas
+  
 
 <a href="https://www.instagram.com/guicastro013/">
   <img align="left" alt="Abhishek's Instagram" width="40px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
