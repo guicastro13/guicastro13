@@ -4,7 +4,7 @@
   Programação é um universo fantastico.
   <br/>
   Gosto de ter conhecimentos gerais sobre a area(hardware ao sorftware), acho relevante para trazer soluções mais robustas
-  
+  <hr/>
 
 <a href="https://www.instagram.com/guicastro013/">
   <img align="left" alt="Abhishek's Instagram" width="40px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
@@ -13,7 +13,6 @@
 <a href="https://www.linkedin.com/in/guicastro13/">
   <img align="left" alt="Abhishek's LinkedIN" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<hr/>
 <br/>
 <br/>
 <br/>
