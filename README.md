@@ -2,6 +2,7 @@
 <br>
  
   Programação é um universo fantastico.
+  <br/>
   Gosto de ter conhecimentos gerais sobre a area(hardware ao sorftware), acho relevante para trazer soluções mais robustas
   
 
