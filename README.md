@@ -1,7 +1,8 @@
 👋 Olá, eu sou @guicastro13, de Rio claro - SP - Brasil.
 <br>
  
-  Programação é um universo fantastico.\nGosto de ter conhecimentos gerais sobre a area(hardware ao sorftware), acho relevante para trazer soluções mais robustas
+  Programação é um universo fantastico.
+  Gosto de ter conhecimentos gerais sobre a area(hardware ao sorftware), acho relevante para trazer soluções mais robustas
   
 
 <a href="https://www.instagram.com/guicastro013/">
