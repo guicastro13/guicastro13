@@ -1,9 +1,4 @@
 <div>
-    <p>@guicastro13</p>
-    <p>Olá, eu sou Guilherme de Castro Silva, de Rio Claro - SP - Brasil.</p>
-</div>
-
-<div>
     <p>Programação é um universo fantástico.</p>
     <p>Gosto de ter conhecimentos gerais sobre a área (hardware ao software), acho relevante para trazer soluções mais robustas.</p>
 </div>
